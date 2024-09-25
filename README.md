@@ -26,12 +26,12 @@
 
 ## Mail Me
 
-<p align="left"><img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/gmail.png" height=50> &nbsp;<a href="mailto:nikunjthesiya.js@gmail.com" align="left"><img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/mail.png" height=50></a></p>
+<p align="left"><img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/gmail.png" height=50> &nbsp;<a href="mailto:hakkimhengg@gmail.com" align="left"><img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/mail.png" height=50></a></p>
 
 ## Connect with me
 
 <p>
-  <a href="https://twitter.com/NikunjThesiya2"><img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/twitterlogo.png" height=44></a> &nbsp; &nbsp;<a href="https://www.linkedin.com/in/nikunjthesiya/"><img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/linkedinlogo.png" height=44></a> &nbsp; &nbsp;<a href="https://www.instagram.com/ll_nikunj.thesiya_ll/"><img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/instagramlogo.png" height=44></a> &nbsp; &nbsp;<a href="https://open.spotify.com/user/31crz5k4dzevnbmicr5lcng6pdne?si=1edb9d19cd7e4461"><img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/spotifylogo.png" height=44></a>
+  <a href="https://twitter.com/henggofficial"><img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/twitterlogo.png" height=44></a> &nbsp; &nbsp;<a href="https://www.linkedin.com/in/hak-kimheng-0ba574287/"><img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/linkedinlogo.png" height=44></a> &nbsp; &nbsp;<a href="https://www.instagram.com/__henqqq__/"><img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/instagramlogo.png" height=44></a> &nbsp; &nbsp;<a href="https://open.spotify.com/user/31crz5k4dzevnbmicr5lcng6pdne?si=1edb9d19cd7e4461"><img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/spotifylogo.png" height=44></a>
 
 </p>
 
