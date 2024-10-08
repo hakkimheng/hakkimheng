@@ -8,6 +8,7 @@
 <img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/sass.png" height=74> &nbsp; 
 <img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/jquery.png" height=74> &nbsp; 
 <img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/javascript.png" height=74>
+
 ## Mail Me
 
 <p align="left"><img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/gmail.png" height=50> &nbsp;<a href="mailto:hakkimhengg@gmail.com" align="left"><img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/mail.png" height=50></a></p>
