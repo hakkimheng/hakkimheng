@@ -6,23 +6,8 @@
 <img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/figma.png" height=74> &nbsp; 
 <img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/bootstrap.png" height=74> &nbsp; 
 <img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/sass.png" height=74> &nbsp; 
-<img src="ttps://github.com/hakkimheng/hakkimheng/blob/main/Images/jquery.png" height=74> &nbsp; 
+<img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/jquery.png" height=74> &nbsp; 
 <img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/javascript.png" height=74>
-
-## See Live - Some of my Projects
-
-<div>
-  <a href="https://amazon-next-nik.vercel.app/"><img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/amazon-pro.png" alt="Amazon Clone By Nikunj Thesiya" width="45%"></a> &nbsp; &nbsp; &nbsp;<a href="https://google-next.vercel.app/" ><img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/google-pro.png" alt="Google clone by Nikunj Thesiya" width="45%"></a>
- </div>
- <br/>
- <div>
-  <a href="https://instanik.netlify.app/" ><img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/instagram-pro.png" alt="Instagram clone by Nikunj Thesiya" width="45%"></a> &nbsp; &nbsp; &nbsp;<a href="https://music-nik.netlify.app/"><img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/music-pro.png" alt="Music App by Nikunj Thesiya" width="45%"></a>
- </div>
- <br/>
-  <div>
-  <a href="https://nik.vercel.app/"><img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/portfolio-pro.png" alt="Portfolio by Nikunj Thesiya" width="45%"></a>
- </div>
-
 ## Mail Me
 
 <p align="left"><img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/gmail.png" height=50> &nbsp;<a href="mailto:hakkimhengg@gmail.com" align="left"><img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/mail.png" height=50></a></p>
