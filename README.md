@@ -2,13 +2,14 @@
 
 <a href="https://www.nik.vercel.app/" target="_blank"><img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/hello2.png" alt="Nikunj Thesiya GitHub header image"></a>
 
-## My Portfolio 👇
-
-<p><a href="https://www.nik.vercel.app/"><img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/checkoutimage.png" width=400></a></p>
-
 ## Stuff I'm Really Good at
 
-<p align="left"><img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/adobexd.png" height=74> &nbsp; <img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/figma.png" height=74> &nbsp; <img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/bootstrap.png" height=74> &nbsp; <img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/sass.png" height=74> &nbsp; <img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/javascript.png" height=74> &nbsp; <img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/jquery.png" height=74> &nbsp; <img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/react.png" height=74> &nbsp; <img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/nextjs.png" height=74> &nbsp; <img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/materialui.png" height=74> &nbsp; <img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/styled-components.png" height=74> &nbsp; <img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/tailwindcss.png" height=74> &nbsp; <img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/semanticui.png" height=74> &nbsp; <img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/redux.png" height=74> &nbsp; <img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/framer.png" height=74> &nbsp; <img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/firebase.png" height=74> &nbsp; <img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/github.png" height=74> &nbsp; <img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/npm.png" height=74></p>
+<p align="left"><img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/adobexd.png" height=74> &nbsp; 
+<img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/figma.png" height=74> &nbsp; 
+<img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/bootstrap.png" height=74> &nbsp; 
+<img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/sass.png" height=74> &nbsp; 
+<img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/javascript.png" height=74> &nbsp; 
+<img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/jquery.png" height=74>
 
 ## See Live - Some of my Projects
 
