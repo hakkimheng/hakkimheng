@@ -1,15 +1,13 @@
 <img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/hello1.png" alt="Nikunj Thesiya GitHub header image">
 
-<a href="https://www.nik.vercel.app/" target="_blank"><img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/hello2.png" alt="Nikunj Thesiya GitHub header image"></a>
-
 ## Stuff I'm Really Good at
 
 <p align="left"><img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/adobexd.png" height=74> &nbsp; 
 <img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/figma.png" height=74> &nbsp; 
 <img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/bootstrap.png" height=74> &nbsp; 
 <img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/sass.png" height=74> &nbsp; 
-<img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/javascript.png" height=74> &nbsp; 
-<img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/jquery.png" height=74>
+<img src="ttps://github.com/hakkimheng/hakkimheng/blob/main/Images/jquery.png" height=74> &nbsp; 
+<img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/javascript.png" height=74>
 
 ## See Live - Some of my Projects
 
