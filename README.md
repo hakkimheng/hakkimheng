@@ -1,5 +1,5 @@
-<img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/hello1.png" alt="Nikunj Thesiya GitHub header image">
-
+<!--<img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/hello1.png" alt="Nikunj Thesiya GitHub header image">
+-->
 ## Stuff I'm Really Good at
 
 <p align="left"><img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/adobexd.png" height=74> &nbsp; 
