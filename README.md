@@ -4,8 +4,10 @@
 
 <p align="left"><img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/adobexd.png" height=74> &nbsp; 
 <img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/figma.png" height=74> &nbsp; 
-<img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/sass.png" height=74> &nbsp; 
-<img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/jquery.png" height=74> &nbsp; 
+<img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/spring.png" height=74> &nbsp;
+<img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/springboot.png" height=74> &nbsp;
+<img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/postgres.png" height=74> &nbsp;
+<img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/redis.png" height=74> &nbsp; 
 <img src="https://github.com/hakkimheng/hakkimheng/blob/main/Images/javascript.png" height=74>
 
 ## Mail Me
